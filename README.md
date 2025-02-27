@@ -6,10 +6,7 @@
       <img src="ARO_Carpati_M461.jpg" alt="ARO M 461" width="500px"/>
     </td>
     <td>
-      El campero ARO M - 461, fue construido por la empresa rumana "Auto Romania", conocida como ARO, a partir del diseño del GAZ 69 (IMS 57) razón por la cual tiene un aspecto "rústico" de vehículo militar de la segunda guerra mundial. El M-461 fue exportado a páises como China y Colombia. En Colombia se conoce como ARO Carpati y en otros países como IMS ARO M-461.
-
-El nombre del modelo,  M-461, surgió como un código constituido por la M que indicaba la ubicación de la fábrica en Câmpulung Muscel, 4 porque era el cuarto prototipo, y 61 por el año en que se inició el proyecto.
-
+      El campero ARO M - 461, fue construido por la empresa rumana "Auto Romania", conocida como ARO, a partir del diseño del GAZ 69 (IMS 57) razón por la cual tiene un aspecto "rústico" de vehículo militar de la segunda guerra mundial. El M-461 fue exportado a páises como China y Colombia. En Colombia se conoce como ARO Carpati y en otros países como IMS ARO M-461. El nombre del modelo,  M-461, surgió como un código constituido por la M que indicaba la ubicación de la fábrica en Câmpulung Muscel, 4 porque era el cuarto prototipo, y 61 por el año en que se inició el proyecto.
     </td>
   </tr>
 </table>
