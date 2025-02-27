@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="{widht:50%}">
       <img src="ARO_Carpati_M461.jpg" alt="ARO M 461" width="500px"/>
     </td>
     <td>
@@ -15,12 +15,15 @@ En Colombia se conoce como ARO Carpati y en otros países como IMS ARO M-461. El
 
 ## Colombia
 
-Las exportaciones empezaron en 1965 con 2.000 unidades.
+Los ARO M-461 fueron importados entre 1968 y 1973 con un total de 2000 unidades entregadas en lotes anuales. No se usó el nombre del modelo sino la marca "Carpati" (de los cárpatos), acompañada del identificador del año, como "68" y "73". El pago de los vehículos fue hecho por el propio gobierno colombiano en especie, puntualmente bultos de café.
 
-## References
+A lo largo de los años, los Carpati han sido actualizados mecánicamente con motores, transmisiones y cajas. Se ven muchos vehículos con carrocerías que se ha aumentado la distancia entre ejes o se les ha alargado el chasis. Los dueños más "modernos" han optado por "engallar" a los M-461 con luces leds, colores metalizados, llantas anchas y muchas otras modificaciones.
+
+## Referencias
 
 - [ARO M 461](https://www.autoevolution.com/cars/aro-m-461-1963.html#aeng_aro-muscel-m-461-1963-25)
 - [Página del club de ARO M-461](https://www.aro-m461.cz/)
+- [ARO M-461 orgullo de Rumania](https://www.classic-autocars.com/aro-m461-orgoglio-romania/)
 
 
 
